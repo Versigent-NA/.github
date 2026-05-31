@@ -76,9 +76,9 @@ Para mantener calidad y consistencia:
 
 ---
 
-## 📫 Comunidad & Conexión
+## 📫 Comunidad y Conexión
 
-- Conecta a través de **NA Dev Hub (Teams / SharePoint)**  
+- Conecta a través de **NA Dev Hub**  
 - Participa en sesiones técnicas y discusiones  
 - Comparte conocimiento y mejores prácticas  
 - Colabora con otros equipos y disciplinas  
