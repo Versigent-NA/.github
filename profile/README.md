@@ -1,5 +1,5 @@
 # Hola!
-Bienvenidx al GitHub oficial de **Vergisent Norteamérica**, el espacio colaborativo donde impulsamos la innovación, el desarrollo y la excelencia tecnológica en la región.
+Bienvenidx al GitHub oficial de **Versigent Norteamérica**, el espacio colaborativo donde impulsamos la innovación, el desarrollo y la excelencia tecnológica de la compañía en la región.
 
 ---
 
@@ -41,7 +41,7 @@ Este espacio centraliza los esfuerzos de desarrollo e innovación:
 
 En **NA Dev Hub**, creemos en:
 
-- 🧩 **Comunidad primero** → Compartimos conocimiento y aprendemos juntos  
+- 🧩 **Comunidad** → Compartimos conocimiento y aprendemos juntos  
 - 🔄 **Mejora continua** → Iteramos, probamos y evolucionamos  
 - 📢 **Transparencia** → El trabajo es visible y accesible  
 - 🏗️ **Ownership** → Cada contribución genera impacto  
